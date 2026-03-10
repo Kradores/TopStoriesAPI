@@ -66,7 +66,7 @@ GET /api/stories?limit=50
 ### Example Request
 
 ```
-curl "http://localhost:5000/api/stories?limit=10"
+curl "http://localhost:5215/api/stories?limit=10"
 ```
 
 ### Example Response
